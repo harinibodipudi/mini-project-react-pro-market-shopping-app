@@ -1,0 +1,51 @@
+[{
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqNlaIh5tYr9uKBhgsoxfjzGH0p488Lkgkw&usqp=CAU",
+    "name": "orange",
+    "price": 50,
+    "description": "orange is very good for health and has lot of c vitamin, take out fresh and juicy oranges from our mart"
+}, {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeYZIVE-b4Ls6CA1beHHjuHHQeLvnwFoynfQ&usqp=CAU",
+    "name": "Apple",
+    "price": 100,
+    "description": "Apple is very good for health and calories, take out fresh and tasty Apples from our mart"
+}, {
+    "img": "https://image.shutterstock.com/image-photo/baby-banana-isolated-260nw-653158432.jpg",
+    "name": "Banana",
+    "price": 30,
+    "description": "Banana is very good for health and digestion, take out fresh and yummy bananas from our mart"
+}, {
+    "img": "https://i.ndtvimg.com/mt/cooks/2014-11/pineapple-annanas.jpg",
+    "name": "Pine Apple",
+    "price": 150,
+    "description": "Pine Apple is very good for health and skin, take out fresh and juicy pine Apple from our mart"
+}, {
+    "img": "https://sc04.alicdn.com/kf/UTB8.zQ5jT_IXKJkSalUq6yBzVXa7.jpg",
+    "name": "Papaya",
+    "price": 50,
+    "description": "Papaya is very good for health and skin, take out fresh Papays from our mart"
+}, {
+    "img": "https://www.bigbasket.com/media/uploads/p/m/10000349-2_8-fresho-custard-apple.jpg",
+    "name": "Custard Apple",
+    "price": 60,
+    "description": "Custard Apple is very good for health and strength, take out fresh and juicy oranges from our mart"
+}, {
+    "img": "https://cf.ltkcdn.net/vegetarian/images/std/121554-400x300-Kiwi_Fruit.jpg",
+    "name": "Kiwi",
+    "price": 120,
+    "description": "Kiwi is very good for health and has lot of c vitamin, take out fresh and tasty Kiwi from our mart"
+}, {
+    "img": "https://www.eurofresh-distribution.com/sites/default/files/field/image/ED%20fr%20grapes%20-%20Edited.jpg",
+    "name": "Grapes",
+    "price": 70,
+    "description": "Grapes are very good for health and diet, take out fresh and healthy grapes from our mart"
+}, {
+    "img": "https://images.hindustantimes.com/rf/image_size_960x540/HT/p2/2018/06/26/Pictures/three-mangos-on-a-white-background_c0f9cd16-7908-11e8-b46a-be68571826e9.jpg",
+    "name": "Mango",
+    "price": 200,
+    "description": "Mangoes are very good for health and are very tasty, take out fresh and juicy mangoes from our mart"
+}, {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHk7AhN6kjJd-6U2oLaSLz6HA2LCzQK8L5A&usqp=CAU",
+    "name": "Watermelon",
+    "price": 50,
+    "description": "Watermelon is very good for health and cools your body, take out fresh and tasty watermelons from our mart"
+}]
